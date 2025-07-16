@@ -1,0 +1,10 @@
+{
+  "name": "WorkerMan",
+  "symbol": "WRKM",
+  "decimals": 18,
+  "description": "WorkerMan token - un token communautaire",
+  "website": "https://x.com/WorkerManToken",
+  "explorer": "https://bscscan.com/token/0x43828e2760c1120608cbe06c2469a3cf5b81239e",
+  "status": "active",
+  "id": "0x43828e2760c1120608cbe06c2469a3cf5b81239e"
+}
